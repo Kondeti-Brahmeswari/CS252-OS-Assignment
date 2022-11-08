@@ -1,8 +1,8 @@
 ### CS252-OS-Assignment
 
-## **Question**
+## **Questions**
 
-[# **Quesion 1-3.18**]
+[# **Quesion 1-3.18**](https://github.com/Kondeti-Brahmeswari/CS252-OS-Assignment/blob/7a2eac4076c08c89558a94b506353705ebd34c2a/Question%201/Answer%201%20code.c)
 
 Using either a UNIX or a Linux system, write a C program that forks
 a child process that ultimately becomes a zombie process. This zombie
@@ -47,5 +47,6 @@ Readers interested in the details of the Monte Carlo method for estimating π sh
 
 ## **Author(s)**
 
-[@Brahmeswarik](
+[@Brahmeswarik](https://www.linkedin.com/in/kondeti-brahmeswari-16b78b20a)
+
 **Kondeti Brahmeswari-201CV128**
