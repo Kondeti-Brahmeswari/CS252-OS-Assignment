@@ -26,7 +26,7 @@ is 4884, you would enter
 kill -9 4884
 
 
-[# **Question 2-4.24**]
+[# **Question 2-4.24**](https://github.com/Kondeti-Brahmeswari/CS252-OS-Assignment/blob/41063b70c8ab4fcd31d6a82a53eec4e4e571ebf8/Question%202/Answer%202%20code.c)
 
 An interesting way of calculating π is to use a technique known as Monte Carlo, which involves randomization. This technique works as follows: Suppose you have a circle inscribed within a square, as shown in Figure 4.25. (Assume that the radius of this circle is 1.)
 
