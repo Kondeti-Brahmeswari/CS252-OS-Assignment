@@ -6,7 +6,6 @@ The rand() function which is present in the stdlib header file is used for gener
 
 The issue with using rand() is that it is not thread-safe
 
-Therefore, in the parallel_pi.c program, random numbers are generated using linear congruential generator algorithm instead of rand().
 
 
 ## **Implementation**
@@ -14,7 +13,7 @@ Therefore, in the parallel_pi.c program, random numbers are generated using line
 
 Two programs were written to estimate the value of pi using the Monte Carlo method
 
-One program was run serially using a loop (serial_pi.c) while the other program made use of threading to parallely compute the value of pi (parallel_pi.c)
+One program was run serially using a loop (serial.c) while the other program made use of threading to parallely compute the value of pi (parallel.c)
 
 The number of random points chosen for the computation was 800000000
 
